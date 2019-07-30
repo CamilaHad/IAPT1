@@ -1,0 +1,7 @@
+algoritmo
+
+início
+
+    escreva ("Segunda-feira linda!!!")
+
+fim

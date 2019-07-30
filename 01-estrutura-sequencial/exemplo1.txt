@@ -1,0 +1,20 @@
+algoritmo
+
+início
+
+    escreva ("Soma: ", 2+2)
+
+fim
+
+----------------------------------------
+
+algoritmo
+declare
+    variavel : numérico
+
+início
+    
+    variavel <- 2 + 2
+    escreva("Soma: ", variavel)
+
+fim
